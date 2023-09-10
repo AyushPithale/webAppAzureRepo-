@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WebappRepo\\webApp\\webApp.csproj",
+      "projectUniqueName": "C:\\Users\\Ayush Pithale\\Source\\Repos\\webAppAzureRepo-\\webApp.csproj",
       "projectName": "webApp",
-      "projectPath": "D:\\WebappRepo\\webApp\\webApp.csproj",
+      "projectPath": "C:\\Users\\Ayush Pithale\\Source\\Repos\\webAppAzureRepo-\\webApp.csproj",
       "packagesPath": "C:\\Users\\Ayush Pithale\\.nuget\\packages\\",
-      "outputPath": "D:\\WebappRepo\\webApp\\obj\\",
+      "outputPath": "C:\\Users\\Ayush Pithale\\Source\\Repos\\webAppAzureRepo-\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ayush Pithale\\AppData\\Roaming\\NuGet\\NuGet.Config",
