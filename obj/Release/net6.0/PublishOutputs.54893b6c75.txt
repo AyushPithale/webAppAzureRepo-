@@ -1,0 +1,7 @@
+F:\Azure AZ - 204 preparation\Project\webApp\obj\Release\net6.0\PubTmp\Out\webApp.exe
+F:\Azure AZ - 204 preparation\Project\webApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+F:\Azure AZ - 204 preparation\Project\webApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+F:\Azure AZ - 204 preparation\Project\webApp\obj\Release\net6.0\PubTmp\Out\webApp.dll
+F:\Azure AZ - 204 preparation\Project\webApp\obj\Release\net6.0\PubTmp\Out\webApp.deps.json
+F:\Azure AZ - 204 preparation\Project\webApp\obj\Release\net6.0\PubTmp\Out\webApp.runtimeconfig.json
+F:\Azure AZ - 204 preparation\Project\webApp\obj\Release\net6.0\PubTmp\Out\webApp.pdb
